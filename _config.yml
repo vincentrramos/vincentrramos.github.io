@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vincent Ramos"
-  avatar           : "Vincent.jpeg"
+  avatar           : "images/Vincent.jpeg"
   bio              : "PhD Student"
   location         : "Berlin, Germany"
   employer         :

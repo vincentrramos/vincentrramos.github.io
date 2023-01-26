@@ -17,13 +17,13 @@ author_profile: true
 
 ## Publications 
 
-**Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m)<br>_Asian and Pacific Migration Journal (conditional acceptance)
+**Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m)<br>_Asian and Pacific Migration Journal (conditional acceptance)_
 
 **Second Births in Germany: The Role of Gender, Social Class, and Economic Uncertainty**<br>with [Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld), Dirk Konietzka, and Philippe Lambert<br>_European Journal of Population (forthcoming)_
 
 **COVID-19 Lockdowns and Female Employment in the Philippines**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m)<br>[_Journal of Family and Economic Issues_](https://link.springer.com/article/10.1007/s10834-022-09879-4)
 
-**On the Income Advantage in Course Choices and Admissions: Evidence from the University of the Philippines**<br>with [Sarah Daway-Ducanes](https://econ.upd.edu.ph/about-upse/faculty/ssdaway/) and Elena Pernia<br>[(_International Journal of Educational Development_)](https://www.sciencedirect.com/science/article/abs/pii/S0738059322000281)
+**On the Income Advantage in Course Choices and Admissions: Evidence from the University of the Philippines**<br>with [Sarah Daway-Ducanes](https://econ.upd.edu.ph/about-upse/faculty/ssdaway/) and Elena Pernia<br>[_International Journal of Educational Development_](https://www.sciencedirect.com/science/article/abs/pii/S0738059322000281)
 
 ## Book Chapter
 

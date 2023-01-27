@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -11,9 +11,9 @@ author_profile: true
 
 **Extreme Lockdowns and the Gendered Informalization of Employment**<br>_submitted. Working paper available upon request._
 
-**Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior** Behavior<br> _ongoing_
+**Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
 
-**On Fetility Norms Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Julie O'Sullivan, Jan Paul Heisig, and Paul Gellert<br>_ongoing_
+**On Fertility Norms Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Julie O'Sullivan, Jan Paul Heisig, and Paul Gellert<br>_ongoing_
 
 ## Publications 
 

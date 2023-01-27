@@ -17,7 +17,7 @@ author_profile: true
 
 ## Publications 
 
-**Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m)<br>_Asian and Pacific Migration Journal (conditional acceptance)_
+**Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m) and Anna Engblom<br>_Asian and Pacific Migration Journal (conditional acceptance)_
 
 **Second Births in Germany: The Role of Gender, Social Class, and Economic Uncertainty**<br>with [Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld), Dirk Konietzka, and Philippe Lambert<br>_European Journal of Population (forthcoming)_
 

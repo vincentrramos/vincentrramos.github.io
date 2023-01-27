@@ -24,4 +24,4 @@ author_profile: true
 
 4. [On Potential Competition Concerns in the Granting of Pioneer Status in the Shipping Industry](https://www.phcc.gov.ph/policy-note-2020-01-on-potential-competition-concerns-in-the-granting-of-pioneer-status-in-the-philippine-shipping-industry/) (with J. de Vera and G. Jusi)<br>_PCC Policy Note 2020-01_
 
-5. [On Potential Competition Concerns in the Rice Sector]({https://www.phcc.gov.ph/policy-note-2019-02-on-potential-competition-concerns-in-the-rice-sector/) (with J.Olivo)<br>_PCC Policy Note 2019-02_
+5. [On Potential Competition Concerns in the Rice Sector](https://www.phcc.gov.ph/policy-note-2019-02-on-potential-competition-concerns-in-the-rice-sector/) (with J.Olivo)<br>_PCC Policy Note 2019-02_

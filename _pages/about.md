@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am a PhD candidate at the [DYNAMICS PhD Program](https://www.sowi.hu-berlin.de/en/dynamics/about-dynamics) under the joint supervision of Prof. Mark Hallerberg, PhD and Prof. Dr. Michaela Kreyenfeld. 
+I am a PhD candidate at the [DYNAMICS PhD Program](https://www.sowi.hu-berlin.de/en/dynamics/about-dynamics) based at the [Hertie School Berlin](https://www.hertie-school.org/en/) and [Humboldt University Berlin](https://www.hu-berlin.de/en) under the joint supervision of [Prof. Mark Hallerberg, PhD](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/hallerberg) and [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld). 
 
 My current research interests are broadly on the causes and consequences of labor market precarity. In the first strand, I look at how policies and structural factors shape precarious (e.g. informal, nonstandard) employment. In the second strand, I analyze the effects of these types of employment on later life family formation outcomes. Tangential to these is an interest in the growing exercise of labor market power and its effects on both collective bargaining and individual career trajectories. I employ quantitative methods (descriptive and quasi-experimental) on representative survey data.
 

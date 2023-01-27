@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: policy
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: policy
+      type: talks
     values:
       layout: talk
       author_profile: true

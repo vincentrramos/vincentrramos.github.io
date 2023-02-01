@@ -15,6 +15,6 @@ author_profile: true
 
 ## Teaching Assistant (Hertie School Berlin)
 
-1. **Economics I** (MA-level)<br>Fall 2022, Spring 2022<br>_Average Student Evaluation: 9.7/10_
+1. **Economics I** (MA-level)<br>Fall 2022, Spring 2022<br>_Concurrently lead TA_
 
 2. **Applied Longitudinal Data Analysis**<br>**Public Policies and Demographic Change**<br>**Applied Logistic Regression**<br>_Course Assistant to M. Kreyenfeld (R-support and grading support)_

@@ -14,7 +14,7 @@ author_profile: true
 
 2. [In times of crises, the youth is left behind](https://www.rappler.com/voices/ispeak/analysis-in-times-crises-youth-left-behind/)<br>_Rappler_<br>30 Nov 2020
 
-**Select Topics in Political Economy**
+**Select Topics in Public Policy**
 
 1. [They Go Hand in Hand: A Response to Locsin's Tweet](https://www.rappler.com/voices/imho/opinion-they-go-hand-slippery-hand-response-locsin-tweet/)<br>_Rappler_<br>05 May 2021
 

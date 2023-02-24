@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## On the Causes and Consequences of Labor Market Precarity (Dissertation Chapters-Works in Progress):
+## On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
 
 **Extreme Lockdowns and the Gendered Informalization of Employment**<br>_submitted. Working paper available upon request._
 
@@ -21,11 +21,11 @@ author_profile: true
 
 
 
-## On the Exercise of Labor Market Power (Principal Investigator, Research Grant by the PH Competition Commission)
+## On the Exercise of Labor Market Power <br> (Principal Investigator, research grant by the PH Competition Commission)
 
 **Too Little, Too Weak? Family Policies and Workers' Bargaining Response**<br> _ongoing_
 
-When statutory provisions for family policies are deemed insufficient, how do workers compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining is a way to afford workers better working conditions as well as increase benefit entitlement compared to what is legally provided by law. An analysis of whether this pattern holds in developing countries is scarce and is limited by the unavailability of collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, redundancy is an objective of unionization and collective bargaining in developing countries where compliance and enforcement are weak.
+**Brief Abstract:** When statutory provisions for family policies are deemed insufficient, how do workers compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining is a way to afford workers better working conditions as well as increase benefit entitlement compared to what is legally provided by law. An analysis of whether this pattern holds in developing countries is scarce and is limited by the unavailability of collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, redundancy is an objective of unionization and collective bargaining in developing countries where compliance and enforcement are weak.
 
 
 ## Publications in Peer-Reviewed Journals 

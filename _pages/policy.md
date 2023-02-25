@@ -10,7 +10,7 @@ author_profile: true
 
 **Labor Topics**
 
-1. [Minimum wages have been historically stagnant – it’s time to act](https://www.rappler.com/voices/thought-leaders/opinion-minimum-wages-historically-stagnant-time-to-act/)(with E. Suguitan)<br>_Rappler_<br>16 Feb 2023
+1. [Minimum wages have been historically stagnant – it’s time to act](https://www.rappler.com/voices/thought-leaders/opinion-minimum-wages-historically-stagnant-time-to-act/) (with E. Suguitan)<br>_Rappler_<br>16 Feb 2023
 
 2. [Non-compete clauses in employment contracts: Time’s up](https://www.rappler.com/voices/thought-leaders/opinion-non-compete-clauses-employment-contracts/)<br>_Rappler_<br>12 Jan 2023
 

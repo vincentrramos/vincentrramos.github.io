@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Lecturer (University of the Philippines-Baguio)
+## Senior Lecturer (University of the Philippines-Baguio)
 
 1. **Applied Economic Demography**<br>Spring 2022<br>_Average Student Evaluation: 4.8/5_<br> Abridged syllabus [here](/files/AED_syllabus Spring 2022_short.pdf)
 
-2. **Labor Economics**<br>Spring 2021, Fall 2021, Fall 2022<br>_Average Student Evaluation: 4.7/5_ 
+2. **Labor Economics**<br>Spring 2021, Fall 2021, Fall 2022<br>_Average Student Evaluation: 4.7/5_<br> Latest syllabus [here](/files/E181_syllabus Fall 2022_v2.pdf)
 
 ## Teaching Assistant (Hertie School Berlin)
 

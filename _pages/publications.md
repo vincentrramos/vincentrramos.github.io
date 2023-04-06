@@ -7,45 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
-
-**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_submitted. Working paper available upon request._
-
-<details>
-  <summary>**Brief Abstract**</summary>
-  
-The adverse effects of COVID-19 on labour market outcomes are amplified by and partly attributable to the imposition of extreme mobility restrictions. While gendered disparities in job losses and working hours reduction have been demonstrated in the literature, is an informalization of employment observed, and is this phenomenon likewise gendered? This article analyses the Philippines, a country that imposed one of the world’s longest and strictest lockdowns, specifically how its imposition affected informal employment. A conceptual and empirical distinction between compositional and survivalist informalization is proffered—the former referring to informality induced by changes in the size and composition of overall employment, and the latter on informality induced by the need to work absent sufficient welfare support and precautionary household savings. Leveraging on the regional variation in lockdowns in a difference-in-differences design, results demonstrate that, indeed, extreme lockdowns increase the probability of informal employment, conditional on being employed, for women but not for men. 
-  
-</details>
-
-**Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
-
-<details>
-  <summary>**Brief Abstract**</summary>
-  
-The conditions upon labor market entry have been demonstrated to affect future employment and family formation outcomes. A thick strand of the literature suggests that entering the labor market with some form of employment uncertainty typically leads to either postponed childbearing, lower probabilities of parenthood, or both. Yet it is not only individual working conditions that matter. Broader macroeconomic conditions also matter. Indeed, the “scarring” literature likewise demonstrates how graduating in a recession year negatively affects the above-mentioned outcomes when compared to those who graduated during normal times. This paper speaks to these two strands and examines whether a “double scarring” effect exists for those who enter the labor market with a fixed-term contract during recessions on the timing of first childbirth. Preliminarily, we employ matching methods using detailed employment and birth histories of labor market entrants in the German Socio-Economic Panel (GSOEP).
-  
-</details>
-
-**On Fertility Norms Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
-
-<details>
-  <summary>**Brief Abstract**</summary>
-  
-While present-time uncertainties have been demonstrated to influence fertility, little is known about the causal effects of future uncertainty on fertility. For instance, when employment stability in the foreseeable future is not guaranteed or when forthcoming care responsibilities are anticipated to be high, family formation might not be deemed ideal. We particularly focus on fertility "norms", operationalized as the belief of a third party about the likely fertility decisions of a couple under a given set of circumstances. Employing a 4x4 vignette experiment on representative survey data, results preliminarily show that future employment uncertainty of both partners reduces fertility norms by around 20 percent and not having forthcoming care responsibilities increases fertility norms by 30 percent. These large effect sizes hold even after controlling for salient vignette characteristics and personal financial worries. We likewise preliminarily find a larger negative effect of male employment uncertainty on fertility norms than that of females. Finally, we probe the effect of multiple uncertainties using interaction models and find the highest fertility norms when both partners are in secure employment and without care responsibilities in the future.
-  
-</details>
-
-## On the Exercise of Labor Market Power <br> (Principal Investigator, research grant by the PH Competition Commission)
-
-**Too Little, Too Weak? Family Policies and Workers' Bargaining Response**<br> _ongoing_
-
-<details>
-  <summary>**Brief Abstract**</summary>
-  
-When statutory provisions for family policies are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining are ways to afford workers better working conditions as well as increase benefit entitlement compared to what is legally provided. An analysis of whether this pattern holds in developing countries is scarce and limited by the unavailability of collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, redundancy is an objective of unionization and collective bargaining in developing countries where compliance and enforcement are weak.
-
-</details>
 
 ## Publications in Peer-Reviewed Journals 
 
@@ -62,4 +23,47 @@ When statutory provisions for family policies are deemed insufficient, how do wo
 ## Manuscripts Under Review
 
 **Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m) and Anna Engblom<br>_Asian and Pacific Migration Journal (conditional acceptance)_
+
+## Works in Progress
+
+### On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
+
+**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_submitted. Working paper available upon request._
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+The adverse effects of COVID-19 on labour market outcomes are amplified by and partly attributable to the imposition of extreme mobility restrictions. While gendered disparities in job losses and working hours reduction have been demonstrated in the literature, is an informalization of employment observed, and is this phenomenon likewise gendered? This article analyses the Philippines, a country that imposed one of the world’s longest and strictest lockdowns, specifically how its imposition affected informal employment. A conceptual and empirical distinction between compositional and survivalist informalization is proffered—the former referring to informality induced by changes in the size and composition of overall employment, and the latter on informality induced by the need to work absent sufficient welfare support and precautionary household savings. Leveraging on the regional variation in lockdowns in a difference-in-differences design, results demonstrate that, indeed, extreme lockdowns increase the probability of informal employment, conditional on being employed, for women but not for men. 
+  
+</details>
+
+**Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+The conditions upon labor market entry have been demonstrated to affect future employment and family formation outcomes. A thick strand of the literature suggests that entering the labor market with some form of employment uncertainty typically leads to either postponed childbearing, lower probabilities of parenthood, or both. Yet it is not only individual working conditions that matter. Broader macroeconomic conditions also matter. Indeed, the “scarring” literature likewise demonstrates how graduating in a recession year negatively affects the above-mentioned outcomes when compared to those who graduated during normal times. This paper speaks to these two strands and examines whether a “double scarring” effect exists for those who enter the labor market with a fixed-term contract during recessions on the timing of first childbirth. Preliminarily, we employ matching methods using detailed employment and birth histories of labor market entrants in the German Socio-Economic Panel (GSOEP).
+  
+</details>
+
+**On Fertility Norms Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+While present-time uncertainties have been demonstrated to influence fertility, little is known about the causal effects of future uncertainty on fertility. For instance, when employment stability in the foreseeable future is not guaranteed or when forthcoming care responsibilities are anticipated to be high, family formation might not be deemed ideal. We particularly focus on fertility "norms", operationalized as the belief of a third party about the likely fertility decisions of a couple under a given set of circumstances. Employing a 4x4 vignette experiment on representative survey data, results preliminarily show that future employment uncertainty of both partners reduces fertility norms by around 20 percent and not having forthcoming care responsibilities increases fertility norms by 30 percent. These large effect sizes hold even after controlling for salient vignette characteristics and personal financial worries. We likewise preliminarily find a larger negative effect of male employment uncertainty on fertility norms than that of females. Finally, we probe the effect of multiple uncertainties using interaction models and find the highest fertility norms when both partners are in secure employment and without care responsibilities in the future.
+  
+</details>
+
+### Competition, Representation, and Bargaining in Labor Markets <br> (Principal Investigator, research grant by the PH Competition Commission)
+
+**Too Little, Too Weak? Family Policies and Workers' Bargaining Response**<br> _ongoing_
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+When statutory provisions for family policies are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining are ways to afford workers better working conditions as well as increase benefit entitlement compared to what is legally provided. An analysis of whether this pattern holds in developing countries is scarce and limited by the unavailability of collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, redundancy is an objective of unionization and collective bargaining in developing countries where compliance and enforcement are weak.
+
+</details>
+
 

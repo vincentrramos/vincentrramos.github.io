@@ -11,7 +11,12 @@ author_profile: true
 
 **Extreme Lockdowns and the Gendered Informalization of Employment**<br>_submitted. Working paper available upon request._
 
+<details>
+  <summary>Brief Abstract</summary>
+  
 **Brief Abstract:** The adverse effects of COVID-19 on labour market outcomes are amplified by and partly attributable to the imposition of extreme mobility restrictions. While gendered disparities in job losses and working hours reduction have been demonstrated in the literature, is an informalization of employment observed, and is this phenomenon likewise gendered? This article analyses the Philippines, a country that imposed one of the world’s longest and strictest lockdowns, specifically how its imposition affected informal employment. A conceptual and empirical distinction between compositional and survivalist informalization is proffered—the former referring to informality induced by changes in the size and composition of overall employment, and the latter on informality induced by the need to work absent sufficient welfare support and precautionary household savings. Leveraging on the regional variation in lockdowns in a difference-in-differences design, results demonstrate that, indeed, extreme lockdowns increase the probability of informal employment, conditional on being employed, for women but not for men. 
+  
+</details>
 
 **Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
 

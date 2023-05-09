@@ -22,13 +22,9 @@ author_profile: true
 
 ## Manuscripts Under Review
 
-**Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m) and Anna Engblom<br>_Asian and Pacific Migration Journal (conditional acceptance)_
+**Informality and Irregularity: A Double Whammy for Migrant Workers in Thailand**<br>with [Geoffrey Ducanes](https://2012.ateneo.edu/ls/soss/economics/faculty/ducanes-geoffrey-m) and Anna Engblom<br>_conditional acceptance at Asian and Pacific Migration Journal_
 
-## Works in Progress
-
-### On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
-
-**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_submitted. Working paper available upon request._
+**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_revise and resubmit at Work, Employment and Society_
 
 <details>
   <summary>Brief Abstract</summary>
@@ -36,6 +32,10 @@ author_profile: true
 The adverse effects of COVID-19 on labour market outcomes are amplified by and partly attributable to the imposition of extreme mobility restrictions. While gendered disparities in job losses and working hours reduction have been demonstrated in the literature, is an informalization of employment observed, and is this phenomenon likewise gendered? This article analyses the Philippines, a country that imposed one of the world’s longest and strictest lockdowns, specifically how its imposition affected informal employment. A conceptual and empirical distinction between compositional and survivalist informalization is proffered—the former referring to informality induced by changes in the size and composition of overall employment, and the latter on informality induced by the need to work absent sufficient welfare support and precautionary household savings. Leveraging on the regional variation in lockdowns in a difference-in-differences design, results demonstrate that, indeed, extreme lockdowns increase the probability of informal employment, conditional on being employed, for women but not for men. 
   
 </details>
+
+## Works in Progress
+
+### On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
 
 **Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
 
@@ -46,12 +46,12 @@ The conditions upon labor market entry have been demonstrated to affect future e
   
 </details>
 
-**On Fertility Norms Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
+**On Ascribed Fertility Intentions Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
 
 <details>
   <summary>Brief Abstract</summary>
   
-While present-time uncertainties have been demonstrated to influence fertility, little is known about the causal effects of future uncertainty on fertility. For instance, when employment stability in the foreseeable future is not guaranteed or when forthcoming care responsibilities are anticipated to be high, family formation might not be deemed ideal. We particularly focus on fertility "norms", operationalized as the belief of a third party about the likely fertility decisions of a couple under a given set of circumstances. Employing a 4x4 vignette experiment on representative survey data, results preliminarily show that future employment uncertainty of both partners reduces fertility norms by around 20 percent and not having forthcoming care responsibilities increases fertility norms by 30 percent. These large effect sizes hold even after controlling for salient vignette characteristics and personal financial worries. We likewise preliminarily find a larger negative effect of male employment uncertainty on fertility norms than that of females. Finally, we probe the effect of multiple uncertainties using interaction models and find the highest fertility norms when both partners are in secure employment and without care responsibilities in the future.
+While present-time uncertainties have been demonstrated to influence fertility, little is known about the causal effects of future uncertainty. For instance, when employment stability in the foreseeable future is not guaranteed or when forthcoming care responsibilities are anticipated to be high, family formation might not be deemed ideal. We particularly focus on ascribed fertility intentions, operationalized as the likelihood of fertility in the short-run of a fictitious couple under a given set of circumstances. Employing a 4x4 vignette experiment on representative survey data, results preliminarily show that future employment uncertainty of both partners reduces ascribed fertility intentions by around 20pp and not having forthcoming care responsibilities increases ascribed fertility intentions by 30pp. These large effect sizes hold even after controlling for salient vignette characteristics and personal financial worries. We likewise preliminarily find a larger negative effect of male employment uncertainty than that of females. Finally, we probe the effect of multiple uncertainties using interaction models and find the highest fertility intentions when both partners are in secure employment and without care responsibilities in the future.
   
 </details>
 

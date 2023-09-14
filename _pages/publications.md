@@ -37,21 +37,21 @@ The adverse effects of COVID-19 on labour market outcomes are amplified by and p
 
 ### On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
 
+**On Ascribed Fertility Intentions Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+While the impact of present-time uncertainties on fertility intentions has been established, there is limited research on the effects of future uncertainties, particularly that of simultaneous and multiple types. Using a vignette experiment from the nationally representative German Socio-Economic Panel Innovation Sample (n=1,750), we analyze the effects of both future caregiving and employment uncertainties on respondent-assessed fertility intentions. Results show that having no female caregiving responsibilities and no employment uncertainty for both partners in the foreseeable future increase fertility intentions by 2.8 and 1.9 units respectively on a 0-10 scale, relative to when future uncertainties are high. These estimates are robust to the inclusion of salient vignette information and respondents’ own socio-demographic and employment characteristics. Using interaction models to analyze the combined effect of multiple future uncertainties, we find additive effects such that fertility intentions are most pronounced when there are no future caregiving responsibilities and both partners are in secure employment. While we find gendered differences in the effect of caregiving uncertainty, we find no evidence that respondents’ evaluation of the vignettes was moderated by their own employment characteristics. Broadly, results highlight individual perceptions of the enabling conditions for initiating parenthood and concerns on family formation in aging societies.
+  
+</details>
+
 **Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
 
 <details>
   <summary>Brief Abstract</summary>
   
 The conditions upon labor market entry have been demonstrated to affect future employment and family formation outcomes. A thick strand of the literature suggests that entering the labor market with some form of employment uncertainty typically leads to either postponed childbearing, lower probabilities of parenthood, or both. Yet it is not only individual working conditions that matter. Broader macroeconomic conditions also matter. Indeed, the “scarring” literature likewise demonstrates how graduating in a recession year negatively affects the above-mentioned outcomes when compared to those who graduated during normal times. This paper speaks to these two strands and examines whether a “double scarring” effect exists for those who enter the labor market with a fixed-term contract during recessions on the timing of first childbirth. Preliminarily, we employ matching methods using detailed employment and birth histories of labor market entrants in the German Socio-Economic Panel (GSOEP).
-  
-</details>
-
-**On Ascribed Fertility Intentions Under Future Uncertainty**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
-
-<details>
-  <summary>Brief Abstract</summary>
-  
-While present-time uncertainties have been demonstrated to influence fertility, little is known about the causal effects of future uncertainty. For instance, when employment stability in the foreseeable future is not guaranteed or when forthcoming care responsibilities are anticipated to be high, family formation might not be deemed ideal. We particularly focus on ascribed fertility intentions, operationalized as the likelihood of fertility in the short-run of a fictitious couple under a given set of circumstances. Employing a 4x4 vignette experiment on representative survey data, results preliminarily show that future employment uncertainty of both partners reduces ascribed fertility intentions by around 20pp and not having forthcoming care responsibilities increases ascribed fertility intentions by 30pp. These large effect sizes hold even after controlling for salient vignette characteristics and personal financial worries. We likewise preliminarily find a larger negative effect of male employment uncertainty than that of females. Finally, we probe the effect of multiple uncertainties using interaction models and find the highest fertility intentions when both partners are in secure employment and without care responsibilities in the future.
   
 </details>
 
@@ -62,7 +62,7 @@ While present-time uncertainties have been demonstrated to influence fertility, 
 <details>
   <summary>Brief Abstract</summary>
   
-When statutory provisions for family policies are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining are ways to afford workers better working conditions as well as increase benefit entitlement compared to what is legally provided. An analysis of whether this pattern holds in developing countries is scarce and limited by the unavailability of collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, redundancy is an objective of unionization and collective bargaining in developing countries where compliance and enforcement are weak.
+When statutory provisions for family policies are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining are ways to afford workers better working conditions as well as increase benefit entitlement compared to what is statutorily guaranteed. An analysis of whether this pattern holds in developing countries with weaker labor movements and social protection mechanisms is scarce and limited by the unavailability of data on collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, precautionary protection is a collective bargaining gain in developing countries where compliance and enforcement are weak.
 
 </details>
 

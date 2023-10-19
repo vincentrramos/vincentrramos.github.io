@@ -35,10 +35,9 @@ The adverse effects of COVID-19 on labor market outcomes are amplified by and pa
 
 ## Works in Progress
 
-### On the Causes and Consequences of Labor Market Precarity <br> (Dissertation Chapters-Works in Progress):
+### On the Causes and Demographic Consequences of Employment Uncertainty <br> (Dissertation Chapters-Works in Progress):
 
-**On Fertility Intentions Under Future Caregiving and Employment Uncertainties: Evidence from a Vignette Experiment
-**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
+**1. On Fertility Intentions Under Future Caregiving and Employment Uncertainties: Evidence from a Vignette Experiment**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
 
 <details>
   <summary>Brief Abstract</summary>
@@ -48,7 +47,7 @@ While the impact of present-time uncertainties on fertility intentions has been 
   
 </details>
 
-**Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
+**2. Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
 
 <details>
   <summary>Brief Abstract</summary>
@@ -59,7 +58,7 @@ The conditions upon labor market entry have been demonstrated to affect future e
 
 ### Competition, Representation, and Bargaining in Labor Markets <br> (Principal Investigator, research grant by the PH Competition Commission)
 
-**Too Little, Too Weak? Family Policies and Workers' Bargaining Response**<br> _ongoing_
+**1. Too Little, Too Weak? Family Policies and Workers' Bargaining Response**<br> _ongoing_
 
 <details>
   <summary>Brief Abstract</summary>

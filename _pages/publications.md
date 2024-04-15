@@ -7,18 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Manuscripts Under Review
-
-**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_revise and resubmit_
-
-<details>
-  <summary>Brief Abstract</summary>
-  
-The adverse effects of COVID-19 on labor market outcomes are amplified by and partly attributable to the imposition of extreme mobility restrictions. While gendered disparities in job losses and working hours reduction have been demonstrated in the literature, is an informalization of employment observed, and is this phenomenon likewise gendered? This article analyses the Philippines, a country that imposed one of the world’s longest and strictest lockdowns, specifically how its imposition affected informal employment. A conceptual and empirical distinction between compositional and survivalist informalization is proffered—the former referring to informality induced by changes in the size and composition of overall employment, and the latter on informality induced by the need to work absent sufficient welfare support and precautionary household savings. Leveraging the regional variation in lockdowns in a difference-in-differences design, results demonstrate that, indeed, extreme lockdowns increase the probability of informal employment, conditional on being employed, for women but not for men. 
-  
-</details>
-
 ## Publications in Peer-Reviewed Journals 
+
+**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_Work, Employment and Society,_ forthcoming
 
 **Second Births in Germany: The Role of Gender, Social Class, and Economic Uncertainty**<br>with [Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld), Dirk Konietzka, and Philippe Lambert<br>[_European Journal of Population_](https://link.springer.com/article/10.1007/s10680-023-09656-5), 2023
 
@@ -32,39 +23,58 @@ The adverse effects of COVID-19 on labor market outcomes are amplified by and pa
 
 **Are Militarized Lockdowns the Great Equalizer? Evidence from the Philippines**<br>with Fatemeh Halabisaz, Leonides Frago, and Ryan Martinez<br>[_The First 100 Days of Covid-19: Law and Political Economy of the Global Policy Response_](https://books.google.de/books/about/The_First_100_Days_of_Covid_19.html?id=z35MzwEACAAJ&redir_esc=y)
 
+## Manuscripts Under Review
+
+**1. On Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany** (with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan)<br>_revise and resubmit_
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+The impact of uncertainty on fertility intentions has been widely explored in the literature, with a strong focus on past and current experiences of adverse economic conditions. There is limited research on the effects of uncertainty in other domains and the possible interactive effects of multiple types of future-oriented uncertainty. Using a vignette experiment from the nationally representative German Socio-Economic Panel Innovation Sample (SOEP-IS) (n=1,750), we randomize the exposure of respondents to a hypothetical couple’s future caregiving and employment uncertainties and estimate its effects on respondent-assessed fertility intentions. Results show that having no female caregiving responsibilities and no employment uncertainty for both partners in the foreseeable future increases fertility intentions by 2.8 and 1.9 units, respectively, on a 0-10 scale, relative to when future uncertainties are high. These estimates are robust to the inclusion of salient vignette information and respondents’ own socio-demographic and employment characteristics. Further analyses exploring the effects of simultaneous and multiple uncertainties demonstrate that fertility intentions are highest when there are no future caregiving responsibilities and both partners are in secure employment. While we find gendered differences in the effect of caregiving uncertainty, we find no evidence that respondents’ evaluations of the vignettes were moderated by their own employment characteristics. Broadly, results highlight individual perceptions of the enabling conditions for initiating parenthood and concerns about family formation in aging societies.
+  
+</details>
+
+**2. Initial Labor Market Conditions and Subsequent Fertility Behavior**<br> _under review_
+
+<details>
+  <summary>Brief Abstract</summary>
+  
+The conditions upon which people enter the labor market have been demonstrated to affect a variety of later life outcomes such as family formation, employment, and wealth accumulation. After the 2008-09 Global Financial Crisis, a thick strand of the literature has shown that initial employment uncertainty leads to postponed childbearing and higher ultimate childlessness. Yet it is not only individual conditions that matter, broader macroeconomic conditions upon entry also matter. Indeed, the “scarring” literature has likewise demonstrated how recessions negatively affect later life outcomes of their cohorts compared to non-recession entrants. Using detailed employment and birth histories of labor market entrants in Germany, this paper examines the effects of initial conditions, operationalized using fixed-term employment and recession year entry, on subsequent fertility behavior. To partly address endogenous selection bias, we employ a two-step identification strategy combining a non-parametric optimal full matching step and a parametric event history modeling step using the matched data. Results suggest that entering the labor market with a fixed-term contract has persistent negative effects on first births up to a decade after entry and the results are pronounced only for females, whereas entering during a recession has persistent negative effects only for males.  
+</details>
 
 ## Works in Progress
 
-### On the Causes and Demographic Consequences of Employment Uncertainty <br> (Dissertation Chapters-Works in Progress):
-
-**1. On Fertility Intentions Under Future Caregiving and Employment Uncertainties: Evidence from a Vignette Experiment**<br>with Michaela Kreyenfeld, Enrique Alonso Perez, Paul Gellert, Jan Paul Heisig, and Julie O'Sullivan<br>_ongoing_
+**1.Too Little, Too Weak? Parental Leave Policies and Workers’ Bargaining Response**<br> _ongoing_
 
 <details>
   <summary>Brief Abstract</summary>
   
-While the impact of present-time uncertainties on fertility intentions has been established, there is limited research on the effects of future uncertainties, particularly that of simultaneous and multiple types. Using a vignette experiment from the nationally representative German Socio-Economic Panel Innovation Sample (n=1,750), we analyze the effects of both future caregiving and employment uncertainties on respondent-assessed fertility intentions. Results show that having no female caregiving responsibilities and no employment uncertainty for both partners in the foreseeable future increase fertility intentions by 2.8 and 1.9 units respectively on a 0-10 scale, relative to when future uncertainties are high. These estimates are robust to the inclusion of salient vignette information and respondents’ own socio-demographic and employment characteristics. Using interaction models to analyze the combined effect of multiple future uncertainties, we find additive effects such that fertility intentions are most pronounced when there are no future caregiving responsibilities and both partners are in secure employment. While we find gendered differences in the effect of caregiving uncertainty, we find no evidence that respondents’ evaluation of the vignettes was moderated by their own employment characteristics. Broadly, results highlight individual perceptions of the enabling conditions for initiating parenthood and concerns on family formation in aging societies.
-
-  
+When legal minimum standards for work and family benefits are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining (CB) are ways to afford workers better conditions and increase benefit entitlement than what is statutorily guaranteed. Whether or not this ``success story” applies in other contexts with decentralized systems for workers’ representation and arguably weaker enforcement of parental leave provision, as is the case in many developing countries, is a persistent gap in the literature partly owing to limited data availability. To address this, we construct a novel dataset of the provisions of all workplace-level CBAs in the Philippines over 6 years to: (1) descriptively show the prevalence of paid parental leaves (PPLs) in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of PPLs in CBAs using a quasi-experimental design. Preliminary findings show that around 65\% of CBAs contain reinforcing provisions that merely restate the statutory leave entitlements, while only 5\% contain augmenting provisions that provide higher leaves. In terms of potential mechanisms, semi-structured interviews with union leaders lend support to the idea that where compliance and enforcement of family policy laws are perceived as weak, redundancy is as much of an objective as augmentation is in the collective bargaining process.
 </details>
 
-**2. Bad Jobs During Bad Times: "Double Scarring" Effects on Fertility Behavior**<br> _ongoing_
+**2. Local Labor Market Concentration and Workers' Representation**
+
+**3. On the Transition from Union Formation to Collective Bargaining: Evidence from the Philippines** (with E. Suguitan)
 
 <details>
   <summary>Brief Abstract</summary>
   
-The conditions upon labor market entry have been demonstrated to affect future employment and family formation outcomes. A thick strand of the literature suggests that entering the labor market with some form of employment uncertainty typically leads to postponed childbearing, lower probabilities of parenthood, or both. Yet it is not only individual working conditions that matter. Broader macroeconomic conditions also matter. Indeed, the “scarring” literature likewise demonstrates how graduating in a recession year negatively affects the above-mentioned outcomes when compared to those who graduated during normal times. This paper speaks to these two strands and examines whether a “double scarring” effect exists for those who enter the labor market with a fixed-term contract during recessions on the timing of first childbirth. Preliminarily, we employ matching methods using detailed employment and birth histories of labor market entrants in the German Socio-Economic Panel (GSOEP).
-  
+In decentralized systems where unionization and bargaining occur at the workplace level, what explains the (speedy) transition from union formation to the signing of a collective agreement? While prior evidence in some developed countries (e.g. United States) estimates this transition to be around one year, little to no evidence exists in a developing country setting where unions play a less prominent role. We analyze the Philippines, a country with relatively low national union density and collective bargaining coverage rates. Using tools from survival analysis on register data of all new union and collective bargaining registrations since 2016, we find that: (1) average firm-level union density is low. (2) only 16\% of the 857 new union registrations have successfully registered a CBA; and (3) union density, union type, and sector are relevant predictors of (accelerated) transition to a collective agreement.
 </details>
 
-### Competition, Representation, and Bargaining in Labor Markets <br> (Principal Investigator, research grant by the PH Competition Commission)
 
-**1. Too Little, Too Weak? Family Policies and Workers' Bargaining Response**<br> _ongoing_
+**4. Employment and Life Course Consequences of Restrictive Covenants in Job Contracts** (with B. Radoc, S. Prado, A. Castillo, and S. Salas)
+
+**5. Employment Uncertainty and Fertility---A Global Re-Appraisal**
+
+**6. Merry Now, Marry Later? Initial Employment Conditions and Marital Intentions** (with M. Vital)
 
 <details>
   <summary>Brief Abstract</summary>
   
-When statutory provisions for family policies are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining are ways to afford workers better working conditions as well as increase benefit entitlement compared to what is statutorily guaranteed. An analysis of whether this pattern holds in developing countries with weaker labor movements and social protection mechanisms is scarce and limited by the unavailability of data on collective bargaining agreements (CBAs). We use a novel dataset of all workplace CBAs in the Philippines from 2016-2021 to: (1) descriptively show the prevalence of family policies in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of family provisions in CBAs using a quasi-experimental design. Preliminarily descriptive findings suggest that beyond augmentation, precautionary protection is a collective bargaining gain in developing countries where compliance and enforcement are weak.
-
+Young adults navigate both initial labor market conditions along family formation intentions. Although studied mostly in Western societies, a thick strand of the literature demonstrates how employment instability is associated with marital behavior (both intentions and actual transitions). The Philippines, as the only country in the world where divorce is illegal under all circumstances, is an interesting case in analyzing both the _institution_ of and the _preferences_ for marriage. Following the Oppenheimerian hypothesis that employment stability partly explains (earlier) marriage timing, especially among career-oriented young adults, we analyze the relationship between initial labor market conditions and marital intentions among this highly-educated population subgroup. Using data from a representative college graduate tracer survey in the Philippines, we preliminarily show that an overwhelming majority intend to get married (>90%), regardless of employment status and type. Results likewise demonstrate that being employed (relative to unemployed) and having a permanent job (relative to casual/fixed-term) is associated with a significantly earlier ideal age at marriage. Thus, highly educated young adults with a ``merry" labor market condition now (e.g. employed, permanent) intend to marry sooner rather than later.
 </details>
+
+**7. Job Posting, Outside Options, and Female Labor Force Participation** (with S. Menon)
 
 

@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications in Peer-Reviewed Journals 
 
-**Extreme Lockdowns and the Gendered Informalization of Employment**<br>_Work, Employment and Society,_ forthcoming
+**Extreme Lockdowns and the Gendered Informalization of Employment**<br>[_Work, Employment and Society,_](https://doi.org/10.1177/09500170241247121), 2024
 
 **Second Births in Germany: The Role of Gender, Social Class, and Economic Uncertainty**<br>with [Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld), Dirk Konietzka, and Philippe Lambert<br>[_European Journal of Population_](https://link.springer.com/article/10.1007/s10680-023-09656-5), 2023
 
@@ -75,6 +75,6 @@ In decentralized systems where unionization and bargaining occur at the workplac
 Young adults navigate both initial labor market conditions along family formation intentions. Although studied mostly in Western societies, a thick strand of the literature demonstrates how employment instability is associated with marital behavior (both intentions and actual transitions). The Philippines, as the only country in the world where divorce is illegal under all circumstances, is an interesting case in analyzing both the _institution_ of and the _preferences_ for marriage. Following the Oppenheimerian hypothesis that employment stability partly explains (earlier) marriage timing, especially among career-oriented young adults, we analyze the relationship between initial labor market conditions and marital intentions among this highly-educated population subgroup. Using data from a representative college graduate tracer survey in the Philippines, we preliminarily show that an overwhelming majority intend to get married (>90%), regardless of employment status and type. Results likewise demonstrate that being employed (relative to unemployed) and having a permanent job (relative to casual/fixed-term) is associated with a significantly earlier ideal age at marriage. Thus, highly educated young adults with a ``merry" labor market condition now (e.g. employed, permanent) intend to marry sooner rather than later.
 </details>
 
-**7. Job Posting, Outside Options, and Female Labor Force Participation** (with S. Menon)
+**7. Outside Options and Female Labor Force Participation** (with S. Menon)
 
 

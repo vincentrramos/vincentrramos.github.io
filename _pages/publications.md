@@ -44,7 +44,9 @@ The conditions upon which people enter the labor market have been demonstrated t
 
 ## Works in Progress
 
-**1.Too Little, Too Weak? Parental Leave Policies and Workers’ Bargaining Response**<br> _ongoing_
+**1. Employment Uncertainty and Parental Coresidence in the UK: An Intersectional Post-Pandemic Re-Appraisal** (with A. Berrington)
+
+**2.Too Little, Too Weak? Parental Leave Policies and Workers’ Bargaining Response**<br> _ongoing_
 
 <details>
   <summary>Brief Abstract</summary>
@@ -52,9 +54,9 @@ The conditions upon which people enter the labor market have been demonstrated t
 When legal minimum standards for work and family benefits are deemed insufficient, how do workers respond and compensate? Looking at advanced economies points us to an idea—unionization and collective bargaining (CB) are ways to afford workers better conditions and increase benefit entitlement than what is statutorily guaranteed. Whether or not this ``success story” applies in other contexts with decentralized systems for workers’ representation and arguably weaker enforcement of parental leave provision, as is the case in many developing countries, is a persistent gap in the literature partly owing to limited data availability. To address this, we construct a novel dataset of the provisions of all workplace-level CBAs in the Philippines over 6 years to: (1) descriptively show the prevalence of paid parental leaves (PPLs) in CBAs and (2) analyze the causal effects of a 2019 maternity leave reform, which increased benefit entitlement from 7-8 weeks to 15 weeks, on the inclusion of PPLs in CBAs using a quasi-experimental design. Preliminary findings show that around 65\% of CBAs contain reinforcing provisions that merely restate the statutory leave entitlements, while only 5\% contain augmenting provisions that provide higher leaves. In terms of potential mechanisms, semi-structured interviews with union leaders lend support to the idea that where compliance and enforcement of family policy laws are perceived as weak, redundancy is as much of an objective as augmentation is in the collective bargaining process.
 </details>
 
-**2. Local Labor Market Concentration and Workers' Representation**
+**3. Local Labor Market Concentration and Workers' Representation**
 
-**3. On the Transition from Union Formation to Collective Bargaining: Evidence from the Philippines** (with E. Suguitan)
+**4. On the Transition from Union Formation to Collective Bargaining: Evidence from the Philippines** (with E. Suguitan)
 
 <details>
   <summary>Brief Abstract</summary>
@@ -63,11 +65,11 @@ In decentralized systems where unionization and bargaining occur at the workplac
 </details>
 
 
-**4. Employment and Life Course Consequences of Restrictive Covenants in Job Contracts** (with B. Radoc, S. Prado, A. Castillo, and S. Salas)
+**5. Employment and Life Course Consequences of Restrictive Covenants in Job Contracts** (with B. Radoc, S. Prado, A. Castillo, and S. Salas)
 
-**5. Employment Uncertainty and Fertility---A Global Re-Appraisal**
+**6. Employment Uncertainty and Fertility---A Global Re-Appraisal**
 
-**6. Merry Now, Marry Later? Initial Employment Conditions and Marital Intentions** (with M. Vital)
+**7. Merry Now, Marry Later? Initial Employment Conditions and Marital Intentions** (with M. Vital)
 
 <details>
   <summary>Brief Abstract</summary>
@@ -75,6 +77,8 @@ In decentralized systems where unionization and bargaining occur at the workplac
 Young adults navigate both initial labor market conditions along family formation intentions. Although studied mostly in Western societies, a thick strand of the literature demonstrates how employment instability is associated with marital behavior (both intentions and actual transitions). The Philippines, as the only country in the world where divorce is illegal under all circumstances, is an interesting case in analyzing both the _institution_ of and the _preferences_ for marriage. Following the Oppenheimerian hypothesis that employment stability partly explains (earlier) marriage timing, especially among career-oriented young adults, we analyze the relationship between initial labor market conditions and marital intentions among this highly-educated population subgroup. Using data from a representative college graduate tracer survey in the Philippines, we preliminarily show that an overwhelming majority intend to get married (>90%), regardless of employment status and type. Results likewise demonstrate that being employed (relative to unemployed) and having a permanent job (relative to casual/fixed-term) is associated with a significantly earlier ideal age at marriage. Thus, highly educated young adults with a ``merry" labor market condition now (e.g. employed, permanent) intend to marry sooner rather than later.
 </details>
 
-**7. Outside Options and Female Labor Force Participation** (with S. Menon)
+**8. Outside Options and Female Labor Force Participation** (with S. Menon)
+
+
 
 

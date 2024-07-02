@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-The latest version of my CV can be downloaded [here](/files/VRR_CVApr2024.pdf).
+The latest version of my CV can be downloaded [here](/files/VRR_CVJul2024.pdf).

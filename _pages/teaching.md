@@ -7,7 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Senior Lecturer (University of the Philippines-Baguio)
+## Senior Lecturer 
+
+### University of the Philippines Diliman (2024-)
+
+1. **Applied Economic Demography** (BA) <br>Fall 2024<br>_Average Student Evaluation: 4.8/5_<br>
+   
+2. **Labor Market Institutions** (MA) <br>Spring 2025<br>
+
+### University of the Philippines-Baguio (2021-2023)
 
 1. **Applied Economic Demography**<br>Spring 2022<br>_Average Student Evaluation: 4.8/5_<br> Abridged syllabus [here](/files/AED_syllabus Spring 2022_short.pdf)
 
@@ -17,7 +25,7 @@ author_profile: true
 
 ## Teaching Assistant 
 
-### Hertie School Berlin
+### Hertie School Berlin (2021-2024)
 
 1. **Applied Longitudinal Data Analysis**<br>**Public Policies and Demographic Change**<br>**Applied Logistic Regression**<br>_Course Assistant to M. Kreyenfeld (R-support and grading support)_
    
@@ -25,6 +33,6 @@ author_profile: true
    
 3.  **Economics I-adv** (MA-level)<br>Fall 2023
 
-### Freie Universitat Berlin-JFK Institute for North Americal Studies
+### Freie Universitat Berlin-JFK Institute for North Americal Studies (2020)
 
 4.  **Introductory Economics** (BA-level) <br>Spring 2020

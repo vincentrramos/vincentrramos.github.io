@@ -40,6 +40,15 @@ In prior macro-level analyses of fertility patterns, employment instability is c
 
 </details>
 
+**5.Too Little, Too Weak? Paid Parental Leaves and Workers’ Bargaining Response**<br>_submitted_
+
+<details>
+  <summary>Brief Abstract</summary>
+
+When statutory entitlements are deemed insufficient, how do workers respond? Some evidence suggests that collective bargaining may secure more entitlements than is legally guaranteed. However, this is less established in contexts where unions are less influential and more fragmented. This article analyzes the embedding and dynamics of paid parental leaves (PPLs) in collective bargaining agreements (CBAs) in the Philippines using a novel dataset of all contracts from 2016 to 2021. I estimate the prevalence of PPLs, whether female leadership is associated with the inclusion of PPLs, and whether wage increases crowd out PPLs. To analyze how changing opportunity structures affect bargaining outcomes, I estimate the effect of a 2019 maternity leave reform using two identification strategies – a counterfactual analysis of multi-plant ultimate parent entities (UPEs) and a regression discontinuity in time (RDiT) design. Results show that 65% of CBAs merely restate statutory leave entitlements, while only 5% secure additional benefits. Neither wage increases nor the 2019 reform crowds out PPL provisions; instead, the former is associated with a higher probability of PPL inclusion. Semi-structured interviews with union leaders support a _bounded augmentation hypothesis_: when compliance and enforcement are perceived as weak, redundancy and augmentation are dual collective bargaining aims.
+  
+</details>
+
 
 
 ## Works in Progress
@@ -54,16 +63,7 @@ In prior macro-level analyses of fertility patterns, employment instability is c
 
 ### Research Area 2. Workers' Mobilization Responses to Insufficiency and Discontent
 
-**1.Too Little, Too Weak? Parental Leave Policies and Workers’ Bargaining Response**<br> _ongoing_
-
-<details>
-  <summary>Brief Abstract</summary>
-
-When statutory work and family entitlements are deemed insufficient, how do workers respond and compensate? Some evidence suggests that unionization may secure higher benefit entitlements than what is statutorily guaranteed. However, the universality of this “success story” is far from established, particularly in contexts where unions play a less salient role. Bridging this gap, we construct a novel dataset of all private sector collective bargaining agreements (CBAs) in the Philippines from 2016-2021 to: descriptively estimate (i) the prevalence of paid parental leaves (PPLs) in CBAs; (ii) whether having female leaders is associated with a higher probability of PPL inclusion; and (iii) whether wage increase provisions “crowd-out” PPLs. We further estimate the effect of a 2019 maternity leave reform, which increased leave entitlements from 8 to 15 weeks, on the inclusion of PPLs in CBAs using two identification strategies - a pre-post comparison of multi-plant ultimate parent entities (UPEs) and a regression discontinuity in time (RDiT) design. Results suggest that around 65% of CBAs contain reinforcing provisions that merely restate statutory leave entitlements, while only 5% contain augmenting provisions that secure more leaves. Second, we find that neither wage increases nor the 2019 reform crowds out PPL provisions. On the contrary, we find a crowding-in pattern - wage increase provisions at the extensive and intensive margin are associated with a higher probability of PPL inclusion. Unpacking potential mechanisms, semi-structured interviews with union leaders and negotiators lend support to a _bounded augmentation hypothesis_ such that where compliance and enforcement of statutory entitlements are perceived as weak, redundancy is as much of an objective as augmentation is in collective bargaining.
-  
-</details>
-
-**2. Concentration and Union Activity in Local Labor Markets: Estimates and Implications from the Philippines** (with E. Jopson)
+**1. Concentration and Union Activity in Local Labor Markets: Estimates and Implications from the Philippines** (with E. Jopson)
 
 ### Research Area 3. Workers' Belief Responses to Firms' Exercise of Power
 

@@ -20,7 +20,16 @@ developing countries with decentralized bargaining systems and low union salienc
 
 </details>
 
-**2. Employment Instability and Fertility—A Global Re-Appraisal** (with M. Kreyenfeld)  <br>_under review_
+**2. School-to-Work Transitions, Homeownership, and Asset Accumulation: The Propelling Role of Parental Resources** (with A. Berrington)  <br>_revise and resubmit_
+
+<details>
+  <summary>Brief Abstract</summary>
+
+Millennials experience marked intra-cohort inequalities in asset ownership and are less likely than earlier cohorts at the same age to own homes or hold financial assets. Using a life course cube approach that integrates the cumulative and intergenerational aspects of adulthood transitions, this article examines the relationship between school-to-work (STW) patterns and subsequent asset accumulation in the UK. Using prospective longitudinal data from Next Steps, a study of the 1989-90 birth cohort in the UK, we first employ sequence and cluster analysis to develop a typology of STW transitions. Logistic regression models then estimate the relationship between these clusters and two asset indicators at age 32: homeownership and the value of savings/investments. Our findings indicate that: (i) individuals with high-churn or intermittent employment spells, or prolonged periods of unemployment or inactivity, are less likely to have ever owned a home or held financial assets; (ii) later  entrants to the labour market are more likely to possess higher-value savings and investments; and (iii) parental resources—measured by social class and housing tenure in early adolescence—partly moderates the labor market entry-asset nexus. Overall, these results highlight an employment stability premium upon labor market entry, while high parental socio-economic resources further propel asset accumulation of young adults with already “successful” STW transitions.
+
+</details>
+
+**3. Employment Instability and Fertility—A Global Re-Appraisal** (with M. Kreyenfeld)  <br>_under review_
 
 <details>
   <summary>Brief Abstract</summary>
@@ -30,16 +39,38 @@ In prior macro-level analyses of fertility patterns in high-income countries, em
 </details>
 
 
-**3. School-to-Work Transitions, Homeownership, and Asset Accumulation: The Propelling Role of Parental Resources** (with A. Berrington)  <br>_under review_
+**4. Old Age Caregiving and Fertility: Experimental Evidence from Germany and Italy** (with M. Kreyenfeld, D. Vignoli, and R. Guetto) <br>_submitted_
 
 <details>
   <summary>Brief Abstract</summary>
 
-Millennials experience marked intra-cohort inequalities in asset ownership and are less likely than earlier cohorts at the same age to own homes or hold financial assets. Using a life course cube approach that integrates the cumulative and intergenerational aspects of adulthood transitions, this article examines the relationship between school-to-work (STW) patterns and subsequent asset accumulation in the UK. Using prospective longitudinal data from Next Steps, a study of the 1989-90 birth cohort in the UK, we first employ sequence and cluster analysis to develop a typology of STW transitions. Logistic regression models then estimate the relationship between these clusters and two asset indicators at age 32: homeownership and the value of savings/investments. Our findings indicate that: (i) individuals with high-churn or intermittent employment spells, or prolonged periods of unemployment or inactivity, are less likely to have ever owned a home or held financial assets; (ii) later  entrants to the labour market are more likely to possess higher-value savings and investments; and (iii) parental resources—measured by social class and housing tenure in early adolescence—partly moderates the labor market entry-asset nexus. Overall, these results highlight an employment stability premium upon labor market entry, while high parental socio-economic resources further propel asset accumulation of young adults with already “successful” STW transitions.
+This paper examines the relationship between old-age caregiving responsibilities and fertility in Germany and Italy, two of the most rapidly ageing countries in Europe. We test two competing hypotheses regarding intergenerational dependencies. On the one hand, we argue that confronting the care needs of ageing parents heightens awareness of intergenerational solidarity, thereby increasing the inclination to have children. Conversely, the “care strain” from sandwiched caregiving would override long-term considerations and reduce the desire to have children. The data come from a factorial survey experiment involving respondents aged 20-39 (n = 2,370) in Italy and Germany. Results indicate that hypothetical caregiving responsibilities toward elderly parents significantly reduce ascribed fertility intentions in both countries. Notably, the magnitude of having future care responsibilities is comparable to that of employment uncertainty. This article highlights that, beyond future economic uncertainties, the anticipation of caregiving duties presents a distinct barrier to family formation in ageing societies.
 
 </details>
 
-**4. The Chains that Bind? Restrictive Covenants and the Preventive Conditions for Occupational Mobility** (with B. Radoc)  <br>_under review_
+
+
+## Works in Progress
+
+### Research Area 1. Workers' Demographic Responses to Employment Uncertainty
+
+**1. Ethnic and Employment Differences in Intergenerational Coresidence** (with A. Berrington) 
+
+### Research Area 2. Workers' Mobilization Responses to Insufficiency and Discontent
+
+**1. Welfare Reforms and the Crowding-In of Parental Coresidence: Evidence from Britain’s Universal Credit Program** (with J. Einhoff and A. Berrington) <br> _ongoing_ 
+
+<details>
+  <summary>Brief Abstract</summary>
+
+Does intergenerational coresidence ``crowd in'' when public welfare retrenches? We examine the case of the Universal Credit (UC) reform in Great Britain, which replaced six legacy welfare programs with a single system that modified benefit income and intensified job search requirements — changes that disproportionately affected single young adults. Leveraging the exogenous variation from the staggered roll-out of the program across local authorities and demographic groups, we estimate the effect of the reform on parental coresidence among young adults aged 18-34 using longitudinal data from Understanding Society. We find that the UC reform significantly increased the likelihood of parental coresidence by 4.8pp among the program-eligible, and that this effect is driven by single individuals without a coresident child. Heterogeneity analyses likewise indicate that this effect is stratified by labor market risk, being most pronounced among young adults at the highest risk of unemployment. These findings underscore the substitutive crowding-in response of intergenerational exchange amid labor market instability and changing welfare regimes. </details>
+
+
+**2. Concentration and Union Activity in Local Labor Markets: Estimates and Implications from the Philippines** (with E. Jopson)
+
+### Research Area 3. Workers' Belief Responses to Firms' Exercise of Power
+
+**1. The Chains that Bind? Restrictive Covenants and the Preventive Conditions for Occupational Mobility** (with B. Radoc)  <br>_finalizing for submission_
 
 <details>
   <summary>Brief Abstract</summary>
@@ -47,23 +78,8 @@ Millennials experience marked intra-cohort inequalities in asset ownership and a
 Restrictive covenants (RCs) in employment contracts serve as de facto chains that statutorily constrain workers’ present and future mobility by preventing them from either leaving their employer prematurely or joining a competitor within a specified period. Beyond their legal function, RCs are instruments that legitimize and maintain economic closures imposed unto and rarely contested by workers. This paper examines how such covenants shape the perceived conditions for subsequent occupational mobility. Using a forced-choice conjoint survey experiment among highly educated labor market entrants in the Philippines, we construct hypothetical jobseeker profiles containing randomly assigned noncompete, training repayment, and non-solicitation clauses. Respondents then assess which profiles are more likely to apply to one of four predefined occupational mobility pathways: vertical-within, lateral-within, vertical-across, and lateral-across job postings. Our results suggest that: (i) noncompete clauses deter within-industry occupational mobility while encouraging across-industry mobility; (ii) training repayment and non-solicitation clauses exert targeted effects depending on their scope conditions; and (iii) these negative effects hold regardless of whether RCs are narrowly or broadly worded and whether enforcement is weak or stringent. Broadly, these results highlight how the imposition of restrictive covenants on employment contracts, _per se_, has binding repercussions on the enabling conditions for occupational mobility.
 </details>
 
-## Works in Progress
+**2. Norm-Amenity Tradeoff in Female Labor Force Participation in India** (with S. Menon and A. Tagat) 
 
-### Research Area 1. Workers' Demographic Responses to Employment Uncertainty
-
-**1. Labour Market Entry, Asset Accumulation, and Fertility** (with A. Berrington)
-
-**2. Welfare Reform and the Crowding-In of Parental Coresidential Support** (with J. Einhoff and A. Berrington)
-
-**3. Old Age Caregiving and Fertility: Experimental Evidence from Germany and Italy** (with M. Kreyenfeld, D. Vignoli, and R. Guetto)
-
-### Research Area 2. Workers' Mobilization Responses to Insufficiency and Discontent
-
-**1. Concentration and Union Activity in Local Labor Markets: Estimates and Implications from the Philippines** (with E. Jopson)
-
-### Research Area 3. Workers' Belief Responses to Firms' Exercise of Power
-
-**1. Outside Options and Female Labor Force Participation** (with S. Menon and A. Tagat) 
 
 
 

@@ -17,13 +17,10 @@ My current research interests revolve around three substantive areas: (i) worker
 
 Feel free to [reach out](mailto:v.ramos@southampton.ac.uk) if any of these research strands interest you!
 
-**Recent News (November 2025)**
+**Recent News (April 2026)**
 
-1. **Selected** as an Early Career Fellow for the Work-Family Researchers Network [2026-2028 Cohort](https://wfrn.org/news/announcing-the-2026-wfrn-early-career-fellowship-recipients/)
+1. **Accepted Article** on Too Little, Too Weak? Paid Parental Leaves in Philippine Collective Agreements in the British Journal of Industrial Relations
    
-2. **Selected** as a Fellow of the Southeast Asia Research Group for the [Winter 2025 Cohort](https://dcid.sanford.duke.edu/seareg-fellows/)
-
-3. **Recent article** on [Labour Market Insecurity and Parental Coresidence in the UK](https://doi.org/10.1093/esr/jcaf058) (with A. Berrington) at the European Sociological Review.
 
 
 

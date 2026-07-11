@@ -11,7 +11,7 @@ redirect_from:
 About
 ------
 
-I am a postdoctoral researcher at the University of Southampton, within the [ESRC Centre for Population Change-Connecting Generations](https://www.cpc.ac.uk/research_programme/connecting_generations/#Current) Project, working on topics around employment uncertainty, life course, and intergenerational exchange. In the summer of 2026, I am joining the [Max Weber Institute](soz.uni-heidelberg.de/en/) at Heidelberg University as a postdoctoral researcher within the ERC-SOCDEBT project, led by Nora Waitkus.
+I am a postdoctoral researcher at the University of Southampton, within the [ESRC Centre for Population Change-Connecting Generations](https://www.cpc.ac.uk/research_programme/connecting_generations/#Current) Project, working on topics around employment uncertainty, life course, and intergenerational exchange. In the summer of 2026, I am joining the [Max Weber Institute](https://www.mwi.uni-heidelberg.de/en) at Heidelberg University as a postdoctoral researcher within the ERC-SOCDEBT project, led by Nora Waitkus.
 
 My research interests thread two domains: (i) social stratification and social demography and (ii) labor market institutions. I am specifically interested in workers' _socio-demographic responses_ to employment uncertainty and _mobilization responses_ to insufficiency and discontent. In doing so, I employ a range of quantitative methods (descriptive, quasi-experimental, and experimental designs) on both representative surveys and novel collected data, focusing on country-specific contexts. My research has been published in the European Sociological Review, the British Journal of Industrial Relations, and Social Science Research, among others.
 
